@@ -1,0 +1,9 @@
+<div class="row">
+  <div class="col-sm-12">
+    <section id="map">
+      <div ui-map="myMap" ui-options="mapOptions" class="map-canvas"
+           ui-event="{'map-click': 'addMarker($event, $params)', 'map-zoom_changed': 'setZoomMessage(myMap.getZoom())' }">
+      </div>
+    </section>
+  </div>
+</div>
