@@ -1,0 +1,613 @@
+[
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域東北物流支店",
+    "locationName": "盛岡総合センター",
+    "postal_code": "０２８−３６２１",
+    "address": "岩手県紫波郡矢巾町大字広宮沢　第３地割６５−３",
+    "tel": "０１９−６９８−４８４８",
+    "fax": "０１９−６９８−２６６１",
+    "location": {
+      "latitude": 39.6297742,
+      "longitude": 141.11195199999997
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域東北物流支店",
+    "locationName": "北上定温センター",
+    "postal_code": "０２４−００５１",
+    "address": "岩手県北上市相去町大松沢１−７８",
+    "tel": "０１９７−７１−２５３０",
+    "fax": "０１９７−６７−０６２２",
+    "location": {
+      "latitude": 39.2435131,
+      "longitude": 141.08125399999994
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域東北物流支店",
+    "locationName": "東北総合センター",
+    "postal_code": "９８１−３３４１",
+    "address": "宮城県黒川郡富谷町成田９−３−４",
+    "tel": "０２２−３５１−５１４１",
+    "fax": "０２２−３５１−５１４３",
+    "location": {
+      "latitude": 38.3590714,
+      "longitude": 140.88847090000002
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域東北物流支店",
+    "locationName": "福島総合センター",
+    "postal_code": "９６９−１１０４",
+    "address": "福島県本宮市荒井字恵向６０−１１",
+    "tel": "０２４３−３６−２３３１",
+    "fax": "０２４３−３６−２３２２",
+    "location": {
+      "latitude": 37.4796958,
+      "longitude": 140.3707356
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域東北物流支店",
+    "locationName": "山形総合センター",
+    "postal_code": "９９９−３７００",
+    "address": "山形県東根市大字東根元東根字一本木７０５７−１５",
+    "tel": "０２３７−３６−０６７７",
+    "fax": "０２３７−３６−０６７８",
+    "location": {
+      "latitude": 38.4313543,
+      "longitude": 140.39109029999997
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第１物流支店",
+    "locationName": "川越定温センター",
+    "postal_code": "３５０−１１５１",
+    "address": "埼玉県川越市大字今福２９９６−１",
+    "tel": "０４９２−３８−２５０１",
+    "fax": "０４９２−３８−２５０３",
+    "location": {
+      "latitude": 35.8822198,
+      "longitude": 139.4679797
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第１物流支店",
+    "locationName": "児玉定温センター",
+    "postal_code": "３６７−０２１２",
+    "address": "埼玉県本庄市児玉町児玉１７５４−１",
+    "tel": "０４９５−７２−９６４０",
+    "fax": "０４９５−７２−９６３８",
+    "location": {
+      "latitude": 36.1897659,
+      "longitude": 139.14666899999997
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第２物流支店",
+    "locationName": "甲府定温センター",
+    "postal_code": "４００−００５３",
+    "address": "山梨県甲府市大里町字大北耕地１０８",
+    "tel": "０５５２−２０−２２６４",
+    "fax": "０５５２−４１−６６４５",
+    "location": {
+      "latitude": 35.6188438,
+      "longitude": 138.5606126
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第１物流支店",
+    "locationName": "佐野定温センター",
+    "postal_code": "３２７−０８１７",
+    "address": "栃木県佐野市伊勢山町１０３８",
+    "tel": "０２８３−２０−２１８２",
+    "fax": "０２８３−２１−０３４４",
+    "location": {
+      "latitude": 36.3193472,
+      "longitude": 139.60992110000007
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第１物流支店",
+    "locationName": "戸田総合センター",
+    "postal_code": "３３５−００２７",
+    "address": "埼玉県戸田市氷川町３−７−８",
+    "tel": "０４８−４４４−３３９９",
+    "fax": "０４８−４４５−９３１１",
+    "location": {
+      "latitude": 35.8066556,
+      "longitude": 139.656569
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第２物流支店",
+    "locationName": "東村山定温センター",
+    "postal_code": "１８９−００１１",
+    "address": "東京都東村山市恩多町１−１１−１",
+    "tel": "０４２−３９２−３０１１",
+    "fax": "０４２−３９２−３２３１",
+    "location": {
+      "latitude": 35.7566833,
+      "longitude": 139.49188149999998
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第２物流支店",
+    "locationName": "座間定温センター",
+    "postal_code": "２２８−０００１",
+    "address": "神奈川県座間市相模が丘６−３８−３０",
+    "tel": "０４６−２５７−２２００",
+    "fax": "０４６−２５７−８０３０",
+    "location": {
+      "latitude": 35.5020568,
+      "longitude": 139.42913469999996
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第２物流支店",
+    "locationName": "裾野定温センター",
+    "postal_code": "４１０−１１０６",
+    "address": "静岡県裾野市金沢字大棚１３６",
+    "tel": "０５５９−９７−３３７７",
+    "fax": "０５５９−９７−３４２６",
+    "location": {
+      "latitude": 35.2192183,
+      "longitude": 138.9009036
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第２物流支店",
+    "locationName": "八王子総合センター",
+    "postal_code": "１９２−０９０６",
+    "address": "東京都八王子市北野町５９８−３",
+    "tel": "０４２−６３１−４５９０",
+    "fax": "０４２−６４２−０２７２",
+    "location": {
+      "latitude": 35.6540863,
+      "longitude": 139.34897249999995
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第２物流支店",
+    "locationName": "追浜総合センター",
+    "postal_code": "２３７−００６１",
+    "address": "神奈川県横須賀市夏島町２８７３−２１",
+    "tel": "０４６８−６５−９５８０",
+    "fax": "０４６８−６５−９５８７",
+    "location": {
+      "latitude": 35.3164467,
+      "longitude": 139.64448419999997
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第２物流支店",
+    "locationName": "横浜鶴見総合センター",
+    "postal_code": "２３０−０００１",
+    "address": "神奈川県横浜市鶴見区矢向６−２０−４８",
+    "tel": "０４５−５８０−０１２６",
+    "fax": "０４５−５８０−０１２７",
+    "location": {
+      "latitude": 35.5395493,
+      "longitude": 139.6764587
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第１物流支店",
+    "locationName": "北土浦総合センター",
+    "postal_code": "３００−０００３",
+    "address": "茨城県土浦市紫ヶ丘５−３",
+    "tel": "０２９８−３３−１１５５",
+    "fax": "０２９８−３３−１１６６",
+    "location": {
+      "latitude": 36.1370791,
+      "longitude": 140.19880820000003
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第１物流支店",
+    "locationName": "三郷定温センター",
+    "postal_code": "３４１−００５５",
+    "address": "埼玉県三郷市上口８９１−１",
+    "tel": "０４８−９５２−６１９１",
+    "fax": "０４８−９５２−６９１８",
+    "location": {
+      "latitude": 35.8416864,
+      "longitude": 139.86860260000003
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第１物流支店",
+    "locationName": "八千代総合センター",
+    "postal_code": "２７６−００４６",
+    "address": "千葉県八千代市大和田新田７２７",
+    "tel": "０４７４−５９−６８８８",
+    "fax": "０４７４−５９−６８９０",
+    "location": {
+      "latitude": 35.7347113,
+      "longitude": 140.09207820000006
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域関東第１物流支店",
+    "locationName": "三郷中央定温センター",
+    "postal_code": "３４１−００５８",
+    "address": "埼玉県三郷市彦江２−１３８−１",
+    "tel": "０４８−９５１−２１３５",
+    "fax": "０４８−９５１−２１２４",
+    "location": {
+      "latitude": 35.8297448,
+      "longitude": 139.86200589999999
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域中部物流支店",
+    "locationName": "岡崎総合センター",
+    "postal_code": "４４４−０００７",
+    "address": "愛知県岡崎市大平町薮下７２",
+    "tel": "０５６４−２２−７７１７",
+    "fax": "０５６４−２２−７７４６",
+    "location": {
+      "latitude": 34.9426719,
+      "longitude": 137.19063370000003
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域中部物流支店",
+    "locationName": "桑名総合センター",
+    "postal_code": "５１１−０８６７",
+    "address": "三重県桑名市陽だまりの丘５−２０２",
+    "tel": "０５９４−３３−１３５０",
+    "fax": "０５９４−３３−１３５１",
+    "location": {
+      "latitude": 35.0935535,
+      "longitude": 136.63477320000004
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域中部物流支店",
+    "locationName": "小牧総合センター",
+    "postal_code": "４８５−０８２１",
+    "address": "愛知県小牧市大字本庄字白池８１１−１",
+    "tel": "０５６８−７８−０００２",
+    "fax": "０５６８−７８−０２３１",
+    "location": {
+      "latitude": 35.2903104,
+      "longitude": 136.9109515
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域中部物流支店",
+    "locationName": "浜松定温センター",
+    "postal_code": "４３０−０８４１",
+    "address": "静岡県浜松市南区寺脇町１７０１−１",
+    "tel": "０５３−４４４−０３８０",
+    "fax": "０５３−４４２−２１８１",
+    "location": {
+      "latitude": 34.6733098,
+      "longitude": 137.74995820000004
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "北陸物流営業所",
+    "locationName": "金沢定温センター",
+    "postal_code": "９２１−８０６２",
+    "address": "石川県金沢市新保本４−６５−１５",
+    "tel": "０７６−２６９−２０００",
+    "fax": "０７６−２６９−２３８０",
+    "location": {
+      "latitude": 36.5594524,
+      "longitude": 136.60364290000007
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "北陸物流営業所",
+    "locationName": "福井定温センター",
+    "postal_code": "９１０−０８４３",
+    "address": "福井県福井市西開発３−４０４−５",
+    "tel": "０７７６−５３−１４５５",
+    "fax": "０７７６−５３−３００２",
+    "location": {
+      "latitude": 36.0842151,
+      "longitude": 136.23440389999996
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域近畿物流支店",
+    "locationName": "伊丹定温センター",
+    "postal_code": "６６４−０８４４",
+    "address": "兵庫県伊丹市口酒井２−３−３０",
+    "tel": "０７２−７70−８６００",
+    "fax": "０７２−７7０−２２５５",
+    "location": {
+      "latitude": 34.7753938,
+      "longitude": 135.43834949999996
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域近畿物流支店",
+    "locationName": "神戸総合センター",
+    "postal_code": "６５８−００２３",
+    "address": "兵庫県神戸市東灘区深江浜町３６−６",
+    "tel": "０７８−４１１−８５１１",
+    "fax": "０７８−４１１−７２５５",
+    "location": {
+      "latitude": 34.7093151,
+      "longitude": 135.2983077
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域近畿物流支店",
+    "locationName": "加古川定温センター",
+    "postal_code": "６７５−００１１",
+    "address": "兵庫県加古川市野口町北野４３０−４",
+    "tel": "０７９−４２９−６４６６",
+    "fax": "０７９−４２９−６４７７",
+    "location": {
+      "latitude": 34.7570198,
+      "longitude": 134.86386679999998
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域近畿物流支店",
+    "locationName": "堺定温センター",
+    "postal_code": "５９３−８３１６",
+    "address": "大阪府堺市西区山田２−１９０−１８",
+    "tel": "０７２ー２７４−０２０２",
+    "fax": "０７２ー２７４−０９０９",
+    "location": {
+      "latitude": 34.5021335,
+      "longitude": 135.46640360000004
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域近畿物流支店",
+    "locationName": "東大阪総合センター",
+    "postal_code": "５７８−０９７３",
+    "address": "大阪府東大阪市東鴻池町３−２",
+    "tel": "０７２９−６０−７８１０",
+    "fax": "０７２９−６１−９６９６",
+    "location": {
+      "latitude": 34.6913481,
+      "longitude": 135.61354140000003
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域近畿物流支店",
+    "locationName": "枚方定温センター",
+    "postal_code": "５７３−０１０１",
+    "address": "大阪府枚方市長尾峠町３−１",
+    "tel": "０７２−８６８−８１２６",
+    "fax": "０７２−８５７−５４４６",
+    "location": {
+      "latitude": 34.8476799,
+      "longitude": 135.70506920000003
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域近畿物流支店",
+    "locationName": "栗東総合センター",
+    "postal_code": "５２０−３０１７",
+    "address": "滋賀県栗東市六地蔵１１６３",
+    "tel": "０７７−５５１−５７５０",
+    "fax": "０７７−５５１−５７５１",
+    "location": {
+      "latitude": 35.0290687,
+      "longitude": 136.01032469999996
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "中四国物流支店",
+    "locationName": "米子定温センター",
+    "postal_code": "６８９−３３０９",
+    "address": "鳥取県西伯郡大山町国信５３４−１",
+    "tel": "０８５９−５３−１５０７",
+    "fax": "０８５９−５３−１５０３",
+    "location": {
+      "latitude": 35.5107369,
+      "longitude": 133.49611449999998
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "中四国物流支店",
+    "locationName": "倉敷定温センター",
+    "postal_code": "７０１−０１１２",
+    "address": "岡山県倉敷市下庄８５０−１",
+    "tel": "０８６−４６４−２１０１",
+    "fax": "０８６−４６４−２１０３",
+    "location": {
+      "latitude": 34.6357255,
+      "longitude": 133.83622409999998
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "中四国物流支店",
+    "locationName": "広島定温センター",
+    "postal_code": "７３１−３１６８",
+    "address": "広島県広島市安佐南区伴南２−５−２９",
+    "tel": "０８２−８４９−２７００",
+    "fax": "０８２−８４９−２７０１",
+    "location": {
+      "latitude": 34.4556561,
+      "longitude": 132.38515440000003
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "中四国物流支店",
+    "locationName": "徳島定温センター",
+    "postal_code": "７７９−０１１９",
+    "address": "徳島県板野郡板野町西中富字源氏８１−１",
+    "tel": "０８８−６７２−７０８１",
+    "fax": "０８８−６７２−７０８２",
+    "location": {
+      "latitude": 34.123042,
+      "longitude": 134.46724859999995
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "中四国物流支店",
+    "locationName": "香川総合センター",
+    "postal_code": "７６８−００４０",
+    "address": "香川県観音寺市柞田町字干拓丁９３−２８　山田産業団地内",
+    "tel": "０８７−５５７−５１１０",
+    "fax": "０８７−５２５−２００７",
+    "location": {
+      "latitude": 34.1107294,
+      "longitude": 133.6422632
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "中四国物流支店",
+    "locationName": "愛媛定温センター",
+    "postal_code": "７９９−１１０１",
+    "address": "愛媛県西条市小松町新屋敷甲２０５４",
+    "tel": "０８９８−７６−３８８８",
+    "fax": "０８９８−７２−６００７",
+    "location": {
+      "latitude": 33.8961839,
+      "longitude": 133.11595850000003
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "九州北物流支店",
+    "locationName": "大分総合センター",
+    "postal_code": "８７０−０３１５",
+    "address": "大分県大分市大字佐野字南４３５６",
+    "tel": "０９７−５９２−２８８７",
+    "fax": "０９７−５９２−３１９７",
+    "location": {
+      "latitude": 33.2395578,
+      "longitude": 131.60927200000003
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域九州物流支店",
+    "locationName": "熊本総合センター",
+    "postal_code": "８６９−０５２３",
+    "address": "熊本県宇城市松橋町大字竹崎１９８１−２",
+    "tel": "０９６４−３２−５６００",
+    "fax": "０９６４−３２−５８７０",
+    "location": {
+      "latitude": 32.62122490000001,
+      "longitude": 130.7036792
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域九州物流支店",
+    "locationName": "諫早定温センター",
+    "postal_code": "８５４−００６５",
+    "address": "長崎県諫早市津久葉長町６２−２５",
+    "tel": "０９５７−２７−１６６０",
+    "fax": "０９５７−２７−１６６３",
+    "location": {
+      "latitude": 32.8194921,
+      "longitude": 130.00198019999993
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域九州物流支店",
+    "locationName": "福岡定温センター",
+    "postal_code": "８１３−００６２",
+    "address": "福岡県福岡市東区松島３ー４−８",
+    "tel": "０９２−６１２−１１３０",
+    "fax": "０９２−６１２−１１３６",
+    "location": {
+      "latitude": 33.6268041,
+      "longitude": 130.43551200000002
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "広域九州物流支店",
+    "locationName": "福岡広川定温センター",
+    "postal_code": "８３４−０１２２",
+    "address": "福岡県八女郡広川町一条字一ッ塚１４１３−１２ 九州明乳販売㈱筑後支店内",
+    "tel": "０９４２−５２−１７４５",
+    "fax": "０９４２−５２−１７４６",
+    "location": {
+      "latitude": 33.2465989,
+      "longitude": 130.50988830000006
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "鹿児島物流営業所",
+    "locationName": "南九州総合センター",
+    "postal_code": "８９１−１３０１",
+    "address": "鹿児島県鹿児島市西佐多町４１１０−４０",
+    "tel": "０９９−２４５−５３３３",
+    "fax": "０９９−２４５−５３３５",
+    "location": {
+      "latitude": 31.7253581,
+      "longitude": 130.54623379999998
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "鹿児島物流営業所",
+    "locationName": "宮崎総合センター",
+    "postal_code": "８８０−０３０３",
+    "address": "宮崎県宮崎市佐土原町東上那珂石塚１７５８８−５０",
+    "tel": "０９８５−７４−４１００",
+    "fax": "０９８５−７４−４１１０",
+    "location": {
+      "latitude": 32.0342949,
+      "longitude": 131.42773480000005
+    }
+  },
+  {
+    "central_office": "日本アクセス",
+    "branch_office": "沖縄物流営業所",
+    "locationName": "沖縄総合センター",
+    "postal_code": "９００−０００１",
+    "address": "沖縄県那覇市港町３−４−１８",
+    "tel": "０９８−８６７−０７００",
+    "fax": "０９８−８６１−４２８５",
+    "location": {
+      "latitude": 26.2451397,
+      "longitude": 127.67585759999997
+    }
+  }
+]

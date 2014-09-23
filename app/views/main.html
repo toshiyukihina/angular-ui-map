@@ -2,8 +2,16 @@
   <div class="col-sm-12">
     <section id="map">
       <div ui-map="myMap" ui-options="mapOptions" class="map-canvas"
-           ui-event="{'map-click': 'addMarker($event, $params)', 'map-zoom_changed': 'setZoomMessage(myMap.getZoom())' }">
+           ui-event="{'map-click': 'addMarker($event, $params)', 
+           'map-zoom_changed': 'setZoomMessage(myMap.getZoom())', 
+           'map-dblclick': 'onDoubleClick()'}">
       </div>
     </section>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-12">
+    <button class="btn btn-primary" ng-click="setDefaultOptions()">Default</button>
   </div>
 </div>

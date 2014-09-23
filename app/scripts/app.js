@@ -35,5 +35,5 @@ angular
 
 function onGoogleReady() {
   console.log('Google maps api initialized.');
-  //angular.bootstrap(document.getElementById('map'), ['doc.ui-map']);
+  angular.bootstrap(document, ['angularUiMapApp']);
 }

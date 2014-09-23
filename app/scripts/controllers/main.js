@@ -10,7 +10,8 @@
 angular.module('angularUiMapApp')
   .controller('MainCtrl', [
     '$scope', 
-    function($scope) {
+    '$log',
+    function($scope, $log) {
       $scope.myMarkers = [];
 
       $scope.mapOptions = {
@@ -19,26 +20,38 @@ angular.module('angularUiMapApp')
         mapTypeId: google.maps.MapTypeId.ROADMAP
       };
 
-      $scope.addMarker = function ($event, $params) {
+      $scope.defaultMapOptions = angular.copy($scope.mapOptions);
+
+      $scope.addMarker = function($event, $params) {
         $scope.myMarkers.push(new google.maps.Marker({
           map: $scope.myMap,
           position: $params[0].latLng
         }));
       };
 
-      $scope.setZoomMessage = function (zoom) {
+      $scope.setZoomMessage = function(zoom) {
         $scope.zoomMessage = 'You just zoomed to ' + zoom + '!';
-        console.log(zoom, 'zoomed');
+        $log.debug(zoom, 'zoomed');
       };
 
-      $scope.openMarkerInfo = function (marker) {
+      $scope.openMarkerInfo = function(marker) {
         $scope.currentMarker = marker;
         $scope.currentMarkerLat = marker.getPosition().lat();
         $scope.currentMarkerLng = marker.getPosition().lng();
         $scope.myInfoWindow.open($scope.myMap, marker);
       };
 
-      $scope.setMarkerPosition = function (marker, lat, lng) {
+      $scope.setMarkerPosition = function(marker, lat, lng) {
         marker.setPosition(new google.maps.LatLng(lat, lng));
+      };
+
+      $scope.setDefaultOptions = function() {
+        $log.debug('* setDefaultOptions');
+        $scope.myMarkers = [];
+        $scope.mapOptions.zoom  = 15;
+      };
+
+      $scope.onDoubleClick = function() {
+        $log.debug('*** onDoubleClick');
       };
     }]);
